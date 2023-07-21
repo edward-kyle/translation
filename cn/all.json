@@ -22,5 +22,6 @@
   "COMMON.ACTIONS.REMOVE": "移除",
   "TAGS.TAG": "标签",
   "TAGS.TAG_WITH_COUNT_one": "{{count, number}} 标签",
-  "TAGS.TAG_WITH_COUNT_other": "{{count, number}} 标签组"
+  "TAGS.TAG_WITH_COUNT_other": "{{count, number}} 标签组",
+  "TABLES.MENUS.TABLE_CONFIGURATION.LIST_CONFIGURATION_TITLE": "列表"
 }
