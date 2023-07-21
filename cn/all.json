@@ -13,10 +13,14 @@
   "SIDEBAR.LABEL_TODAYS_NOTE": "今日笔记",
   "SIDEBAR.LABEL_FLASHCARDS": "闪卡",
   "TAGS.YOUR_TAGS": "你的标签",
-  "TAGS.PINNED_TAGS": "固定标签",
+  "TAGS.PINNED_TAGS": "固定标签组",
   "SIDEBAR.LABEL_RESUME_INTERACTIVE_TOUR": "恢复交互式导览",
   "SIDEBAR.LABEL_TUTORIALS": "教程",
   "SIDEBAR.LABEL_INTERACTIVE_TOUR": "交互式导览",
   "SIDEBAR.LABEL_COMMUNITY": "社区",
-  "SIDEBAR.LABEL_EDIT_LATER": "稍后编辑"
+  "SIDEBAR.LABEL_EDIT_LATER": "稍后编辑",
+  "COMMON.ACTIONS.REMOVE": "移除",
+  "TAGS.TAG": "标签",
+  "TAGS.TAG_WITH_COUNT_one": "{{count, number}} 标签",
+  "TAGS.TAG_WITH_COUNT_other": "{{count, number}} 标签组"
 }
